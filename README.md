@@ -11,7 +11,7 @@ video detection papers
 * **FGFA:** Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Flow-Guided Feature Aggregation for Video Object Detection." ICCV (2017). [
   [paper](https://arxiv.org/abs/1703.10025)]
-* **D_T** Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman.
+* **D_T:** Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman.
   "Detect to Track and Track to Detect." ICCV (2017). [
   [paper](http://www.robots.ox.ac.uk/~vgg/publications/2017/Feichtenhofer17/feichtenhofer17.pdf)]
 ### CVPR2017
