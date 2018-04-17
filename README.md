@@ -2,6 +2,11 @@
 video detection papers based deep learning
 
 
+### Arxiv
+* **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
+  "Towards High Performance Video Object Detection for Mobiles" Arxiv(2018). [
+  [paper](https://arxiv.org/pdf/1804.05830.pdf)]
+
 ### CVPR2018
 * **Towards High Performance:** Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Towards High Performance Video Object Detection." CVPR (2018). [
