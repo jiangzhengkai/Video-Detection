@@ -13,7 +13,7 @@ video detection papers based deep learning
   [paper](https://arxiv.org/abs/1711.11577)]
 * **Scale-Time Lattice:** Kai Chen, Jiaqi Wang, Shuo Yang, Xingcheng Zhang, Yuanjun Xiong, Chen Chang Loy, Dahua Lin.
   "Optimizing Video Object Detection vis a Scale-Time Lattice." CVPR (2018). [
-  [paper](mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/ST-Lattice.pdf)]. [[project](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)]
+  [paper](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/ST-Lattice.pdf)]. [[project](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)]
 ### ICCV2017
 * **FGFA:** Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Flow-Guided Feature Aggregation for Video Object Detection." ICCV (2017). [
@@ -28,6 +28,11 @@ video detection papers based deep learning
 
 ## Object-Detection
 object detection papers based deep learning
+### Arxiv
+* **DetNet:** Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun.
+  "DetNet: A Backbone network for Object Detection." [[paper](https://arxiv.org/pdf/1804.06215.pdf)]
+* **Light-Head R-CNN:** Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun.
+  "Light-Head R-CNN: In Defense of Two-Stage Object Detector."[[paper](https://arxiv.org/abs/1711.07264)]
 
 ### CVPR2018
 
@@ -35,12 +40,16 @@ object detection papers based deep learning
 
 ### CVPR2017
 
+### NIPS2016
+* **R-FCN:** Jifeng Dai, Yi Li, Kaiming He, Jian Sun.
+  "R-FCN: Object Detection via Region-based Fully Convolutional Networks." [[paper](https://arxiv.org/abs/1605.06409)]
+
 ### CVPR2016
 
 ### ECCV2016
 
-
 ### ICCV2015
+
 ### CVPR2015
 
 
