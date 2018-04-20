@@ -47,9 +47,13 @@ object detection papers based deep learning
 ### CVPR2016
 
 ### ECCV2016
+* **SSD:** Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C.Berg.
+  "SSD: Single Shot MultiBox Detector." [[paper](https://arxiv.org/abs/1512.02325)] [[code](https://github.com/weiliu89/caffe/tree/ssd)]
 
 ### ICCV2015
 
 ### CVPR2015
+* **Faster R-CNN:** Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun.
+  "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks." [[paper](https://arxiv.org/abs/1506.01497)] [[code](https://github.com/rbgirshick/py-faster-rcnn)]
 
 
