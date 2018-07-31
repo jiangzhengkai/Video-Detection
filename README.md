@@ -6,6 +6,11 @@ video detection papers based deep learning
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
   "Towards High Performance Video Object Detection for Mobiles" Arxiv(2018). [
   [paper](https://arxiv.org/pdf/1804.05830.pdf)]
+  
+### ECCV2018
+* **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
+  "Fully Motion-Aware Network for Video Object Detection." ECCV (2018). [
+  [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
 
 ### CVPR2018
 * **Towards High Performance:** Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei.
