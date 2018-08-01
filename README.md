@@ -11,7 +11,7 @@ video detection papers based deep learning
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
   "Fully Motion-Aware Network for Video Object Detection." ECCV (2018). [
   [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
-* **Iou-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
+* **IOU-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
   "Acquisition of Localization Confidence for Accurate Object Detection." ECCV(2018). [
   [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]
 ### CVPR2018
