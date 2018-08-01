@@ -44,11 +44,11 @@ object detection papers based deep learning
   "YOLOv3: An Incremental Improvement." [[paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)]
 ### CVPR2018
 * **SNIP:** Bharat Singh, Larry S. Davis.
-  "An Analysis of Scale Invariance in Object Detection - SNIP." [[paper](https://arxiv.org/pdf/1711.08189.pdf)[code](https://github.com/bharatsingh430/snip)]
+  "An Analysis of Scale Invariance in Object Detection - SNIP." [[paper](https://arxiv.org/pdf/1711.08189.pdf)] [[code](https://github.com/bharatsingh430/snip)]]
  * **Cascade-RCNN:** Zhaowei Cai, Nuno Vasconcelos.
-   "Cascade R-CNN: Delving into High Quality Object Detectio." [[paper](https://arxiv.org/pdf/1712.00726.pdf)[code](https://github.com/zhaoweicai/cascade-rcnn)]
+   "Cascade R-CNN: Delving into High Quality Object Detectio." [[paper](https://arxiv.org/pdf/1712.00726.pdf)] [[code](https://github.com/zhaoweicai/cascade-rcnn)]]
  * **Relation-Networks:** Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.
-   "Relation Networks for Object Detection." [[paper](https://arxiv.org/pdf/1711.11575.pdf)[code](https://github.com/msracver/Relation-Networks-for-Object-Detection)]
+   "Relation Networks for Object Detection." [[paper](https://arxiv.org/pdf/1711.11575.pdf)] [[code](https://github.com/msracver/Relation-Networks-for-Object-Detection)]]
 
 ### ICCV2017
 
