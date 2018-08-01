@@ -13,7 +13,7 @@ video detection papers based deep learning
   [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
 * **Iou-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
   "Acquisition of Localization Confidence for Accurate Object Detection." ECCV(2018). [
-  [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]]
+  [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]
 ### CVPR2018
 * **Towards High Performance:** Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Towards High Performance Video Object Detection." CVPR (2018). [
@@ -44,11 +44,11 @@ object detection papers based deep learning
   "YOLOv3: An Incremental Improvement." [[paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)]
 ### CVPR2018
 * **SNIP:** Bharat Singh, Larry S. Davis.
-  "An Analysis of Scale Invariance in Object Detection - SNIP." [[paper](https://arxiv.org/pdf/1711.08189.pdf)] [[code](https://github.com/bharatsingh430/snip)]]
+  "An Analysis of Scale Invariance in Object Detection - SNIP." [[paper](https://arxiv.org/pdf/1711.08189.pdf)] [[code](https://github.com/bharatsingh430/snip)]
  * **Cascade-RCNN:** Zhaowei Cai, Nuno Vasconcelos.
-   "Cascade R-CNN: Delving into High Quality Object Detectio." [[paper](https://arxiv.org/pdf/1712.00726.pdf)] [[code](https://github.com/zhaoweicai/cascade-rcnn)]]
+   "Cascade R-CNN: Delving into High Quality Object Detectio." [[paper](https://arxiv.org/pdf/1712.00726.pdf)] [[code](https://github.com/zhaoweicai/cascade-rcnn)]
  * **Relation-Networks:** Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei.
-   "Relation Networks for Object Detection." [[paper](https://arxiv.org/pdf/1711.11575.pdf)] [[code](https://github.com/msracver/Relation-Networks-for-Object-Detection)]]
+   "Relation Networks for Object Detection." [[paper](https://arxiv.org/pdf/1711.11575.pdf)] [[code](https://github.com/msracver/Relation-Networks-for-Object-Detection)]
 
 ### ICCV2017
 
