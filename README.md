@@ -11,9 +11,7 @@ video detection papers based deep learning
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
   "Fully Motion-Aware Network for Video Object Detection." ECCV (2018). [
   [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
-* **IOU-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
-  "Acquisition of Localization Confidence for Accurate Object Detection." ECCV(2018). [
-  [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]
+
 ### CVPR2018
 * **Towards High Performance:** Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Towards High Performance Video Object Detection." CVPR (2018). [
@@ -42,6 +40,12 @@ object detection papers based deep learning
   "Light-Head R-CNN: In Defense of Two-Stage Object Detector."[[paper](https://arxiv.org/abs/1711.07264)]
 * **YOLOv3:** Joseph Redmon, Ali Farhadi.
   "YOLOv3: An Incremental Improvement." [[paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)]
+  
+### ECCV2018
+* **IOU-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
+  "Acquisition of Localization Confidence for Accurate Object Detection." ECCV(2018). [
+  [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]
+  
 ### CVPR2018
 * **SNIP:** Bharat Singh, Larry S. Davis.
   "An Analysis of Scale Invariance in Object Detection - SNIP." [[paper](https://arxiv.org/pdf/1711.08189.pdf)] [[code](https://github.com/bharatsingh430/snip)]
