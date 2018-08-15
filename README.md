@@ -11,6 +11,14 @@ video detection papers based deep learning
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
   "Fully Motion-Aware Network for Video Object Detection." ECCV (2018). [
   [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
+  
+* **SpatioTemporal Sampling Network:** Gedas Bertasius, Lorenzo Torresani, ianbo Shi.
+  "Object Detection in Video with Spatiotemporal Sampling Networks." ECCV (2018). [[paper]
+  (https://arxiv.org/pdf/1803.05549.pdf)]
+  
+* **Aligned Spatial-Temporal Memory:** Fanyi Xiao, Yong Jae Lee.
+  "Video Object Detection with an Aligned Spatial-Temporal Memory." ECCV(2018). [
+  [paper](https://arxiv.org/abs/1712.06317)]
 
 ### CVPR2018
 * **Towards High Performance:** Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei.
