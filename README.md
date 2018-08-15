@@ -13,8 +13,8 @@ video detection papers based deep learning
   [code](https://github.com/wangshy31/MANet_for_Video_Object_Detection.git)]
   
 * **SpatioTemporal Sampling Network:** Gedas Bertasius, Lorenzo Torresani, ianbo Shi.
-  "Object Detection in Video with Spatiotemporal Sampling Networks." ECCV (2018). [[paper]
-  (https://arxiv.org/pdf/1803.05549.pdf)]
+  "Object Detection in Video with Spatiotemporal Sampling Networks." ECCV (2018). [
+  [paper](https://arxiv.org/pdf/1803.05549.pdf)]
   
 * **Aligned Spatial-Temporal Memory:** Fanyi Xiao, Yong Jae Lee.
   "Video Object Detection with an Aligned Spatial-Temporal Memory." ECCV(2018). [
