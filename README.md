@@ -3,9 +3,13 @@ video detection papers based deep learning
 
 
 ### Arxiv
+* **Looking Fast and Slow:** Mason Liu, Menglong Zhu Marie White Yinxiao Li Dmitry Kalenichenko.
+  "Looking Fast and Slow: Memory-Guided Mobile Video Object Detection" Arxiv(2019). [
+  [paper](https://arxiv.org/pdf/1903.10172v1.pdf)]
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
   "Towards High Performance Video Object Detection for Mobiles" Arxiv(2018). [
   [paper](https://arxiv.org/pdf/1804.05830.pdf)]
+ 
   
 ### ECCV2018
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
@@ -27,6 +31,9 @@ video detection papers based deep learning
 * **Scale-Time Lattice:** Kai Chen, Jiaqi Wang, Shuo Yang, Xingcheng Zhang, Yuanjun Xiong, Chen Chang Loy, Dahua Lin.
   "Optimizing Video Object Detection vis a Scale-Time Lattice." CVPR (2018). [
   [paper](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/ST-Lattice.pdf)] [[project](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)]
+  * **Mobile Video Object Detection:** Mason Liu, Menglong Zhu.
+  "Mobile Video Object Detection with Temporally-Aware Feature Maps." CVPR (2018). [
+  [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Mobile_Video_Object_CVPR_2018_paper.pdf)]
 ### ICCV2017
 * **FGFA:** Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei.
   "Flow-Guided Feature Aggregation for Video Object Detection." ICCV (2017). [
