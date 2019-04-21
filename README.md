@@ -31,7 +31,7 @@ video detection papers based deep learning
 * **Scale-Time Lattice:** Kai Chen, Jiaqi Wang, Shuo Yang, Xingcheng Zhang, Yuanjun Xiong, Chen Chang Loy, Dahua Lin.
   "Optimizing Video Object Detection vis a Scale-Time Lattice." CVPR (2018). [
   [paper](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/ST-Lattice.pdf)] [[project](http://mmlab.ie.cuhk.edu.hk/projects/ST-Lattice/)]
-  * **Mobile Video Object Detection:** Mason Liu, Menglong Zhu.
+* **Mobile Video Object Detection:** Mason Liu, Menglong Zhu.
   "Mobile Video Object Detection with Temporally-Aware Feature Maps." CVPR (2018). [
   [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Mobile_Video_Object_CVPR_2018_paper.pdf)]
 ### ICCV2017
