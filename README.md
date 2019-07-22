@@ -3,6 +3,9 @@ video detection papers based deep learning
 
 
 ### Arxiv
+* **Sequence Level Semantics Aggregation:** Haiping Wu, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang.
+  "Sequence Level Semantics Aggregation for Video Object Detection" Arxiv(2019). [
+  [paper](https://arxiv.org/pdf/1907.06390v1.pdf)]
 * **Looking Fast and Slow:** Mason Liu, Menglong Zhu, Marie White, Yinxiao Li, Dmitry Kalenichenko.
   "Looking Fast and Slow: Memory-Guided Mobile Video Object Detection" Arxiv(2019). [
   [paper](https://arxiv.org/pdf/1903.10172v1.pdf)]
