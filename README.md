@@ -3,7 +3,7 @@ video detection papers based deep learning
 
 
 ### Arxiv
-* **Looking Fast and Slow:** Mason Liu, Menglong Zhu Marie White Yinxiao Li Dmitry Kalenichenko.
+* **Looking Fast and Slow:** Mason Liu, Menglong Zhu, Marie White, Yinxiao Li, Dmitry Kalenichenko.
   "Looking Fast and Slow: Memory-Guided Mobile Video Object Detection" Arxiv(2019). [
   [paper](https://arxiv.org/pdf/1903.10172v1.pdf)]
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
