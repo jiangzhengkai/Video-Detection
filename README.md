@@ -3,7 +3,10 @@ video detection papers based deep learning
 
 
 ### Arxiv
-* **Looking Fast and Slow:** Mason Liu, Menglong Zhu Marie White Yinxiao Li Dmitry Kalenichenko.
+* **Sequence Level Semantics Aggregation:** Haiping Wu, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang.
+  "Sequence Level Semantics Aggregation for Video Object Detection" Arxiv(2019). [
+  [paper](https://arxiv.org/pdf/1907.06390v1.pdf)]
+* **Looking Fast and Slow:** Mason Liu, Menglong Zhu, Marie White, Yinxiao Li, Dmitry Kalenichenko.
   "Looking Fast and Slow: Memory-Guided Mobile Video Object Detection" Arxiv(2019). [
   [paper](https://arxiv.org/pdf/1903.10172v1.pdf)]
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
@@ -49,14 +52,14 @@ video detection papers based deep learning
 ## Object-Detection
 object detection papers based deep learning
 ### Arxiv
-* **DetNet:** Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun.
-  "DetNet: A Backbone network for Object Detection." [[paper](https://arxiv.org/pdf/1804.06215.pdf)]
 * **Light-Head R-CNN:** Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun.
   "Light-Head R-CNN: In Defense of Two-Stage Object Detector."[[paper](https://arxiv.org/abs/1711.07264)]
 * **YOLOv3:** Joseph Redmon, Ali Farhadi.
   "YOLOv3: An Incremental Improvement." [[paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)]
   
 ### ECCV2018
+* **DetNet:** Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun.
+  "DetNet: A Backbone network for Object Detection." [[paper](https://arxiv.org/pdf/1804.06215.pdf)]
 * **IOU-Net:** Borui Jiang, Ruixuan Luo, Jiayuan Mao, Tete Xiao, Yuning Jiang.
   "Acquisition of Localization Confidence for Accurate Object Detection." ECCV(2018). [
   [paper](https://arxiv.org/pdf/1807.11590.pdf)] [[code](https://github.com/vacancy/PreciseRoIPooling)]
