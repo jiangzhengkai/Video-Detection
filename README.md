@@ -14,6 +14,11 @@ video detection papers based deep learning
   [paper](https://arxiv.org/pdf/1804.05830.pdf)]
  
   
+### ICCV2019
+* **Fully Motion-Aware Networks:** Jiajun Deng, Yingwei Pan, Ting Yao, Wengang Zhou, Houqiang Li, Tao Mei.
+  "Relation Distillation Networks for Video Object Detection." ICCV (2019). [
+  [paper](https://arxiv.org/pdf/1908.09511.pdf)]
+
 ### ECCV2018
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
   "Fully Motion-Aware Network for Video Object Detection." ECCV (2018). [
