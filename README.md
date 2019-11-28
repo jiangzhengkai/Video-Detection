@@ -9,6 +9,10 @@ video detection papers based deep learning
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
   "Towards High Performance Video Object Detection for Mobiles" Arxiv(2018). [
   [paper](https://arxiv.org/pdf/1804.05830.pdf)]
+* **Learning Motion Priors:** Zhengkai Jiang, Yu Liu, Ceyuan Yang, Jihao Liu, Qian Zhang, Shiming Xiang, Chunhong Pan.
+  "Learning Motion Priors for Efficient Video Object Detection" Arxiv(2019). [
+  [paper](https://arxiv.org/pdf/1911.05253.pdf)]
+
  
   
 ### ICCV2019
@@ -23,6 +27,11 @@ video detection papers based deep learning
 * **Fully Motion-Aware Networks:** Jiajun Deng, Yingwei Pan, Ting Yao, Wengang Zhou, Houqiang Li, Tao Mei.
   "Relation Distillation Networks for Video Object Detection." ICCV (2019). [
   [paper](https://arxiv.org/pdf/1908.09511.pdf)]
+
+### AAAI2019
+* **Locally-Weighted Deformable Neighboors:** Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan.
+  "Video Object Detection with Locally-Weighted Deformable Neighbors" AAAI(2019). [
+  [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4871)]
 
 ### ECCV2018
 * **Fully Motion-Aware Network:** Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng.
