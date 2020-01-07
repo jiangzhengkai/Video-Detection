@@ -24,12 +24,12 @@ video detection papers based deep learning
   "A Delay Metric for Video Object Detection: What Average Precision Fails to Tell." ICCV (2019). [
   [paper](https://arxiv.org/pdf/1908.06368.pdf)]
 
-* **Fully Motion-Aware Networks:** Jiajun Deng, Yingwei Pan, Ting Yao, Wengang Zhou, Houqiang Li, Tao Mei.
+* **Relation Distillation Networks:** Jiajun Deng, Yingwei Pan, Ting Yao, Wengang Zhou, Houqiang Li, Tao Mei.
   "Relation Distillation Networks for Video Object Detection." ICCV (2019). [
   [paper](https://arxiv.org/pdf/1908.09511.pdf)]
 
 ### AAAI2019
-* **Locally-Weighted Deformable Neighboors:** Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan.
+* **Locally-Weighted Deformable Neighbors:** Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan.
   "Video Object Detection with Locally-Weighted Deformable Neighbors" AAAI(2019). [
   [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4871)]
 
