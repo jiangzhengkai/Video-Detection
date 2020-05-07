@@ -15,6 +15,11 @@ video detection papers based deep learning
 
  
   
+### CVPR2020
+* **MEGA:** Yihong Chen, Yue Cao, Han Hu, Liwei Wang.
+  "Memory Enhanced Global-Local Aggregation for Video Object Detection" CVPR(2020). [
+  [paper](https://arxiv.org/pdf/2003.12063.pdf)]
+
 ### ICCV2019
 * **Sequence Level Semantics Aggregation:** Haiping Wu, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang.
   "Sequence Level Semantics Aggregation for Video Object Detection" ICCV(2019). [
