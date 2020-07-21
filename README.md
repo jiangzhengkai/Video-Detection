@@ -9,12 +9,14 @@ video detection papers based deep learning
 * **Towards High Performance for Mobiles:** Xizhou Zhu, Jifeng Dai, Xingchi Zhu, Yichen Wei, Lu Yuan.
   "Towards High Performance Video Object Detection for Mobiles" Arxiv(2018). [
   [paper](https://arxiv.org/pdf/1804.05830.pdf)]
-* **Learning Motion Priors:** Zhengkai Jiang, Yu Liu, Ceyuan Yang, Jihao Liu, Qian Zhang, Shiming Xiang, Chunhong Pan.
-  "Learning Motion Priors for Efficient Video Object Detection" Arxiv(2019). [
-  [paper](https://arxiv.org/pdf/1911.05253.pdf)]
 
  
   
+### ECCV2020
+* **LSTS:** Zhengkai Jiang, Yu Liu, Ceyuan Yang, Jihao Liu, Peng Gao, Qian Zhang, Shiming Xiang, Chunhong Pan.
+  "Learning Where to Focus for Efficient Video Object Detection" ECCV(2020). [
+  [paper](https://arxiv.org/pdf/1911.05253.pdf)] [[code](https://github.com/jiangzhengkai/LSTS)]
+
 ### CVPR2020
 * **MEGA:** Yihong Chen, Yue Cao, Han Hu, Liwei Wang.
   "Memory Enhanced Global-Local Aggregation for Video Object Detection" CVPR(2020). [
